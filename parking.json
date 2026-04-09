@@ -25,5 +25,14 @@
     "entrada": "2026-04-09T10:43:03.651Z",
     "salida": null,
     "monto_pagar": null
+  },
+  {
+    "id": "1775740189584",
+    "marca": "Ford",
+    "placa": "DS1FY4",
+    "color": "Negro",
+    "entrada": "2026-04-09T13:09:49.584Z",
+    "salida": null,
+    "monto_pagar": null
   }
 ]
