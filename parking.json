@@ -1,1 +1,18 @@
-[Testing]
+[
+  {
+    "id": "1",
+    "marca": "Toyota",
+    "placa": "ABC-123",
+    "entrada": "2026-04-09T08:00:00Z",
+    "salida": null,
+    "monto_pagar": null
+  },
+  {
+    "id": "2",
+    "marca": "Mazda",
+    "placa": "EFG-456",
+    "entrada": "2026-04-09T06:00:00Z",
+    "salida": "2026-04-09T10:00:00Z",
+    "monto_pagar": 10
+  }
+]
