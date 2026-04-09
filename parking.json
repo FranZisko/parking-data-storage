@@ -52,5 +52,14 @@
     "entrada": "2026-04-09T13:20:02.578Z",
     "salida": null,
     "monto_pagar": null
+  },
+  {
+    "id": "1775741266097",
+    "marca": "Ford",
+    "placa": "EL1PBV",
+    "color": "Azul",
+    "entrada": "2026-04-09T13:27:46.097Z",
+    "salida": null,
+    "monto_pagar": null
   }
 ]
