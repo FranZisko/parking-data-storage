@@ -14,5 +14,14 @@
     "entrada": "2026-04-09T06:00:00Z",
     "salida": "2026-04-09T10:00:00Z",
     "monto_pagar": 15
+  },
+  {
+    "id": "1775731232219",
+    "marca": "Toyota",
+    "placa": "LESDZI",
+    "color": "Blanco",
+    "entrada": "2026-04-09T10:40:32.219Z",
+    "salida": null,
+    "monto_pagar": null
   }
 ]
