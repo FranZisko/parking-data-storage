@@ -34,5 +34,14 @@
     "entrada": "2026-04-09T13:09:49.584Z",
     "salida": null,
     "monto_pagar": null
+  },
+  {
+    "id": "1775740229602",
+    "marca": "Ford",
+    "placa": "K7G9MK",
+    "color": "Negro",
+    "entrada": "2026-04-09T13:10:29.602Z",
+    "salida": null,
+    "monto_pagar": null
   }
 ]
