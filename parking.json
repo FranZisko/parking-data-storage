@@ -1,27 +1,20 @@
 [
   {
-    "id": "1",
-    "marca": "Toyota",
-    "placa": "ABC-123",
-    "entrada": "2026-04-09T08:00:00Z",
-    "salida": "2026-04-09T10:36:17.806Z",
-    "monto_pagar": null
-  },
-  {
-    "id": "2",
-    "marca": "Mazda",
-    "placa": "EFG-456",
-    "entrada": "2026-04-09T06:00:00Z",
-    "salida": "2026-04-09T10:00:00Z",
-    "monto_pagar": 15
-  },
-  {
     "id": "1775731232219",
     "marca": "Toyota",
     "placa": "LESDZI",
     "color": "Blanco",
     "entrada": "2026-04-09T10:40:32.219Z",
     "salida": "2026-04-09T10:40:52.222Z",
+    "monto_pagar": null
+  },
+  {
+    "id": "1775731363649",
+    "marca": "Ford",
+    "placa": "QHZJ99",
+    "color": "Rojo",
+    "entrada": "2026-04-09T10:42:43.649Z",
+    "salida": null,
     "monto_pagar": null
   }
 ]
