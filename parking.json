@@ -42,7 +42,7 @@
     "color": "Negro",
     "entrada": "2026-04-09T13:10:29.602Z",
     "salida": "2026-04-09T13:42:05.046Z",
-    "monto_pagar": null,
+    "monto_pagar": 5,
     "monto_provisional": 5
   },
   {
@@ -72,6 +72,7 @@
     "color": "Negro",
     "entrada": "2026-04-09T13:41:45.220Z",
     "salida": null,
-    "monto_pagar": null
+    "monto_pagar": null,
+    "monto_provisional": 5
   }
 ]
