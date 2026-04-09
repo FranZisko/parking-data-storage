@@ -43,5 +43,14 @@
     "entrada": "2026-04-09T13:10:29.602Z",
     "salida": null,
     "monto_pagar": null
+  },
+  {
+    "id": "1775740802578",
+    "marca": "Ford",
+    "placa": "9Q3LVO",
+    "color": "Negro",
+    "entrada": "2026-04-09T13:20:02.578Z",
+    "salida": null,
+    "monto_pagar": null
   }
 ]
