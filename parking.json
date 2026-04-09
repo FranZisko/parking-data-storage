@@ -16,5 +16,14 @@
     "entrada": "2026-04-09T10:42:43.649Z",
     "salida": null,
     "monto_pagar": null
+  },
+  {
+    "id": "1775731383651",
+    "marca": "Audi",
+    "placa": "B8MIY7",
+    "color": "Gris",
+    "entrada": "2026-04-09T10:43:03.651Z",
+    "salida": null,
+    "monto_pagar": null
   }
 ]
